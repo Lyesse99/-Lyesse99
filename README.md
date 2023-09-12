@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm ylan</h1>
 <h3 align="center">Vous pouvez retrouver ici l'ensemble de mes projets public !</h3>
 
-- 💬 **Apprenant à la Web@cadémie by Epitech. Curieux et persévérant, j'ai participé activement à plusieurs projets tout au long de ma formation qui m'ont permis d'acquérir de solides connaissances.**
+- 💬 **Apprenant à la Bocal Academy. Curieux et persévérant, j'ai participé activement à plusieurs projets tout au long de ma formation qui m'ont permis d'acquérir de solides connaissances.**
 
-- 📫 How to reach me **ylan.hamidi@epitech.eu**
+- 📫 How to reach me **ylan.hamidi@yahoo.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
